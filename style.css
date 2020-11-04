@@ -1,4 +1,10 @@
+/*genaric tags*/
+body{
+    background-color: lightgray
+}
+/*end generic tags*/
 
+/*colors*/
 .teal{
     color: #96f4f7
 }
@@ -13,4 +19,24 @@
 }
 .light-red{
     color: #ffbdc3
+}
+/*end colors*/
+
+/*genaric classes*/
+.header{
+    font-family: Lucida Calligraphy;
+    font-size: 20px;
+    font-weight: bold;
+}
+/*end genaric classes*/
+
+/*technically unimportant*/
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
 }
