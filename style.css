@@ -2,7 +2,6 @@
     color:white
 }
 
-
 /*genaric tags*/
 body{
     background-color: rgb(250, 250, 250)
@@ -11,7 +10,14 @@ h1{
     font-family: arial;
 }
 footer{
-    background-color: rgb(42, 47, 54)
+    background-color:white;
+    text-align: center;
+}
+footer>.left{
+    text-align: left;
+}
+footer>.right{
+    text-align: right;
 }
 /*end generic tags*/
 
@@ -63,6 +69,7 @@ footer{
     border: solid;
     width: 800px
 }
+/*end genaric ids*/
 
 /*technically unimportant*/
 .right{
@@ -74,3 +81,4 @@ footer{
 .center{
     text-align: center;
 }
+/*end techinally unimportant*/
