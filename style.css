@@ -9,14 +9,13 @@ body{
 h1{
     font-family: arial;
 }
-footer{
-    background-color:white;
-    text-align: center;
+.footer{
+    background-color: #d3d3d39c;
 }
-footer>.left{
+.footer>.left{
     text-align: left;
 }
-footer>.right{
+.footer>.right{
     text-align: right;
 }
 /*end generic tags*/
@@ -61,6 +60,9 @@ footer>.right{
     font-family: Lucida Calligraphy;
     font-size: 45px;
     font-weight: bold;
+}
+.light-bg{
+    color: black;
 }
 /*end genaric classes*/
 
