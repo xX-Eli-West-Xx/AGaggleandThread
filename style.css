@@ -1,6 +1,3 @@
-.temp{
-    color:white
-}
 
 /*genaric tags*/
 body{
@@ -63,6 +60,13 @@ h1{
 }
 .light-bg{
     color: black;
+}
+.homepageimages{
+    align-items: right;
+}
+.brand-circle{
+    border-radius: 90%;
+    width: 15%
 }
 /*end genaric classes*/
 
