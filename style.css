@@ -6,14 +6,8 @@ body{
 h1{
     font-family: arial;
 }
-.footer{
-    background-color: #d3d3d39c;
-}
-.footer>.left{
-    text-align: left;
-}
-.footer>.right{
-    text-align: right;
+p{
+    font-size: 20px;
 }
 /*end generic tags*/
 
@@ -67,6 +61,19 @@ h1{
 .brand-circle{
     border-radius: 90%;
     width: 15%
+}
+.smallheader{
+    font-family: Lucida Calligraphy;
+    font-size: 33px;
+}
+.footer{
+    background-color: #d3d3d39c;
+}
+.footer>.left{
+    text-align: left;
+}
+.footer>.right{
+    text-align: right;
 }
 /*end genaric classes*/
 
