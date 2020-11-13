@@ -3,37 +3,16 @@ fix banner
 corner logo on other pages
  reviews on home
  links to pages at the bottom
+ get form for order?
+ get form for support
+
+
+
+
 
   table-sm
 
-   <tr class="table footer">
-                            <td>
-                                3
-                            </td>
-                            <td>
-                                TB - Monthly
-                            </td>
-                            <td>
-                                03/04/2012
-                            </td>
-                            <td>
-                                Pending
-                            </td>
-                        </tr>
-                        <tr class="table footer">
-                            <td>
-                                4
-                            </td>
-                            <td>
-                                TB - Monthly
-                            </td>
-                            <td>
-                                04/04/2012
-                            </td>
-                            <td>
-                                Call in to confirm
-                            </td>
-                        </tr>
+                -----this is footer-----
 
                 -----this is searchbar-----
 
