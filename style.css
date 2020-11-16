@@ -1,7 +1,7 @@
 
 /*genaric tags*/
 body{
-    background-color: rgb(250, 250, 250)
+    background-color: rgb(250, 250, 250);
 }
 h1{
     font-family: arial;
@@ -11,7 +11,7 @@ p{
 }
 /*end generic tags*/
 
-/*colors*/
+/*bg colors*/
 .teal{
     background-color: #96f4f7;
 }
@@ -26,6 +26,9 @@ p{
 }
 .light-red{
     background-color: #ffbdc3;
+}
+.section-bg{
+    background-color: #ede6e3;
 }
 /*end colors*/
 
@@ -45,6 +48,9 @@ p{
 .textlight-red{
     color: #ffbdc3;
 }
+.black-link{
+    color: black;
+}
 
 /*genaric classes*/
 .header{
@@ -54,6 +60,12 @@ p{
 }
 .light-bg{
     color: black;
+}
+.nobootstrap-active{
+    color:rgb(0, 0, 0)
+}
+.carousel-inactive{
+    color: rgb(24, 24, 24)
 }
 .homepageimages{
     align-items: right;
