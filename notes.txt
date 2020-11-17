@@ -17,7 +17,7 @@ ed e6 e3  colorrr
   table-sm
 
                 -----this is footer-----
-
+                    screw uuuuu
                 -----this is searchbar-----
 
                         <form class="form-inline">
@@ -35,3 +35,96 @@ ed e6 e3  colorrr
                                     <div class="dropdown-divider">
                                     </div> <a class="dropdown-item" href="#">Separated link</a>
                                 </div>
+
+
+                                    -----THIS IS NEW FOOTER-----
+
+
+                                <table class="footer table">
+                    <tbody>
+                        <tr>
+                            <td class="left">
+                                gaggleandthread@gmail.com
+                            </td>
+                            <td>
+                                
+                            </td>
+                            <td>
+                                
+                            </td>
+                            <td class="right">
+                                +1 (731) 803-1475
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="">
+                                    <ul class="navbar-nav center">
+                                        <li class="nav-item">
+                                        <a class="nav-link black-link" href="index.html">Home</a>
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link black-link" href="about.html">About</a>
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link black-link" href="pricing.html">Pricing</a>
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link black-link" href="order.html">Order</a>
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link black-link" href="support.html">Support</a>       
+                                    </ul>
+                                </div>
+                            </td>
+                            <td>
+                                 
+                            </td>
+                            <td>
+                                 
+                            </td>
+                            <td>
+                                 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="left">
+                                footer3 
+                            </td>
+                            <td>
+                                 
+                            </td>
+                            <td>
+                                 
+                            </td>
+                            <td class="right">
+                                <i class="fab fa-facebook-square right" style="font-size: 30px;" href="https://www.facebook.com/GaggleAndThread/"></i>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+
+                <i class="fab fa-facebook-square right" style="font-size: 30px;"></i>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+		</div>
+	</div>
+</div>
+
+
+
+
+
+                <a class="black-link" href="https://www.facebook.com/GaggleAndThread/">FaceBook</a> 
+
+
+
+                nav-item 
+                navbar-nav 
+
+
+                <li class="list-inline-item">
+                                                    </li>
