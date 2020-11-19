@@ -81,18 +81,18 @@ p{
 }
 .footer{
     background-color: #c7ceea;
-    border-color:  #c7ceea;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    height: 80px;
-    width: 100%;
 }
 .footer>.left{
     text-align: left;
 }
 .footer>.right{
     text-align: right;
+}    
+.table{
+    border-inline-color: #c7ceea;
 }
 /*end genaric classes*/
 
