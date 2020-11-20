@@ -13,11 +13,11 @@ p{
 /*end generic tags*/
 
 /*bg colors*/
-.teal{
-    background-color: #96f4f7;
+.light-green{
+    background-color: #acffdc;
 }
 .light-blue{
-    background-color: #c1f7f7
+    background-color: #adf7fa
 }
 .light-purple{
     background-color: #ecd9e9;
@@ -31,14 +31,17 @@ p{
 .section-bg{
     background-color: #ede6e3;
 }
+.transparent-bg{
+    background-color: transparent;
+}
 /*end colors*/
 
 /*text colors*/
-.textteal{
-    color: #96f4f7;
+.textlight-green{
+    color: #acffdc;
 }
 .textlight-blue{
-    color: #c1f7f7
+    color: #adf7fa
 }
 .textlight-purple{
     color: #ecd9e9;
@@ -52,7 +55,9 @@ p{
 .black-link{
     color: black;
 }
-
+.text-hidden{
+    color: transparent;
+}
 /*genaric classes*/
 .header{
     font-family: Lucida Calligraphy;
@@ -79,20 +84,42 @@ p{
     font-family: Lucida Calligraphy;
     font-size: 33px;
 }
-.footer{
-    background-color: #c7ceea;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-}
 .footer>.left{
     text-align: left;
 }
 .footer>.right{
     text-align: right;
-}    
-.table{
-    border-inline-color: #c7ceea;
+}
+.top{
+    margin-top: 10px;
+}
+.bottom{
+    margin-bottom: 10px;
+}
+.footer-table{
+    width: 100%;
+    max-width: 100%;
+    height: 200px;
+    margin: 0rem;
+    background-color: transparent
+}
+.footer-table{
+    background-color: #c7ceea;
+}
+.footer-table{
+    border-collapse:collapse!important
+}
+.border-solid{
+    border: solid;
+    border-color: black;
+}
+.smallborder-solid{
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.eliminate-border{
+    border-color: transparent;
 }
 /*end genaric classes*/
 

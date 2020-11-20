@@ -13,8 +13,16 @@ ed e6 e3  colorrr
 
 
 
-
+1234567890
   table-sm
+
+
+  .footer{
+    background-color: #c7ceea;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
 
                 -----this is footer-----
                     screw uuuuu
