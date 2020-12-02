@@ -2,7 +2,8 @@
 /*genaric tags*/
 body{
     background-color: rgb(250, 250, 250);
-    margin: 0px;
+    overflow-x: hidden; //:horizontal;
+    overflow-y: scroll; //:vertical;
 }
 h1{
     font-family: arial;
@@ -80,6 +81,10 @@ p{
     border-radius: 90%;
     width: 15%
 }
+.picture-circle{
+    border-radius: 50%;
+    border: dotted;
+}
 .smallheader{
     font-family: Lucida Calligraphy;
     font-size: 33px;
@@ -100,7 +105,8 @@ p{
     width: 100%;
     max-width: 100%;
     height: 200px;
-    margin: 0rem;
+    margin-left: 0px;
+    margin-right: 0px;
     background-color: transparent
 }
 .footer-table{
@@ -142,4 +148,29 @@ p{
 .center{
     text-align: center;
 }
+.footer-navbar{
+    text-align: center;
+}
+.no-margin{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
 /*end techinally unimportant*/
+/*My Bootstrap Fixes*/
+.fixed-marginscontainer-fluid{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0pz;
+}
