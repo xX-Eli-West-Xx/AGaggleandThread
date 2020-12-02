@@ -2,8 +2,8 @@
 /*genaric tags*/
 body{
     background-color: rgb(250, 250, 250);
-    overflow-x: hidden; //:horizontal;
-    overflow-y: scroll; //:vertical;
+    overflow-x: hidden; 
+    overflow-y: scroll; 
 }
 h1{
     font-family: arial;
