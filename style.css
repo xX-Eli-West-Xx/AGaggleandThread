@@ -115,6 +115,9 @@ p{
 .footer-table{
     border-collapse:collapse!important
 }
+.footer-text{
+    font-size: 20px;
+}
 .border-solid{
     border: solid;
     border-color: black;
@@ -134,6 +137,7 @@ p{
     border: solid;
     width: 800px
 }
+
 /*end genaric ids*/
 
 /*technically unimportant*/

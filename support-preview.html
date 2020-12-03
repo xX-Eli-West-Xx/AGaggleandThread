@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="https://kit.fontawesome.com/f66b0ca14f.js" crossorigin="anonymous"></script>
+    
 </head>
 <body class="light-purple">
     <div class="container-fluid">
@@ -123,24 +124,26 @@
                     <div class="col-md-2">
                         <div class="btn-group btn-group-vertical" role="group">
                              
-                            <button class="btn btn-secondary" type="button">
-                                Left
+                            <button class="btn btn-secondary" type="button" onclick="supportbuttonleft()">
+                                "Where is my order?"
                             </button> 
-                            <button class="btn btn-secondary" type="button">
-                                Center
+                            <button class="btn btn-secondary" type="button" onclick="supportbuttonright()">
+                                CenterCenterCenterCenter
                             </button> 
-                            <button class="btn btn-secondary" type="button">
-                                Right
+                            <button class="btn btn-secondary" type="button" onclick="supportbuttoncenter()">
+                                RightRightRightRightRight
                             </button> 
-                            <button class="btn btn-secondary" type="button">
-                                Justify
+                            <button class="btn btn-secondary" type="button" onclick="supportbuttonjustify()">
+                                JustifyJustifyJustify
                             </button>
                         </div>
                     </div>
                     <div class="col-md-10">
-                        <p>
+                        <p class="left-button right-button center-button justify-button">
                             <strong>We want to make sure you get you're satisfied.</strong> If there is an issue, we want to help resolve it. Just to the left is a group of our most frequent issues. Click on the box for a simple solution.<br><br>
                             Just let us know what the problem is, and we'll try our best to fix it.<br><br>
+                        </p>
+                        <p>
                             <strong>Still having issues?</strong> Contact us for further support at <i>+1 (731) 803-1475</i>
                         </p>
                     </div>
@@ -222,5 +225,9 @@
             </div>
         </div>
     </div>
+
+    
+
 </body>
+<script src="allScript.js"></script>
 </html>
