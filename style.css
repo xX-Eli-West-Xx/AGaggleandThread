@@ -130,6 +130,10 @@ p{
 .eliminate-border{
     border-color: transparent;
 }
+.home-paragraph{
+    font-size: 25px;
+    text-align: justify;
+}
 /*end genaric classes*/
 
 /*genaric ids*/
