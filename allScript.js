@@ -15,7 +15,7 @@ function supportbuttoncenter() {
 
 function supportbuttonjustify() {
     var z= document.getElementsByClassName("justify-button");
-    z[0].innerHTML="We are trying our hardest to get everyone's order done and shipped, so we may not be available right now."
+    z[0].innerHTML="We are trying our hardest to get everyone's order done and shipped, so we may not be available right now. Please forgive the inconvenience."
 }
 function supportbuttonother() {
     var v= document.getElementsByClassName("other-button");

@@ -154,5 +154,41 @@ ed e6 e3  colorrr
                                         </li>
                                     <
 
+                 -------------------------------- This is the support Jumbotron ---------------------------------------
+
+
+                            <div class="row">
+                    <div class="col-md-12">
+                        <div class="page-header">
+                            <br>
+                            <h1 class="center">
+                                Trouble? <small>Click on one of the issues below, or submit a new one.</small>
+                            </h1>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+                <div class="salmon jumbotron border-solid">
+                    <h2>
+                        We're here to help!
+                    </h2>
+                    <p>
+                        We want your experience with us to be as smooth as possible. Here, we take time to resolve your issues, so if you're having a problem, please click the button below to see the troubleshooting page.
+                    </p>
+                    <p>
+                        <a class="silver btn btn-primary btn-large black-link smallborder-solid" href="support.html">Click Here!</a>
+                    </p>
+                </div>
+
+
+                --------------------------------------------------------------------------------------------------------
+
+
+
+
+right click the image, click "save as" name it, save it to your desktop, and email me the pictures so i can get them into the img folder.
+
+
+
 
                                     https://supportlocal.usatoday.com/
