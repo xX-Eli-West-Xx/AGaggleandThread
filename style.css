@@ -85,6 +85,10 @@ p{
     border-radius: 50%;
     border: dotted;
 }
+.home-picture{
+    width: 400px;
+    height: 400px;
+}
 .smallheader{
     font-family: Lucida Calligraphy;
     font-size: 33px;
@@ -158,6 +162,12 @@ p{
 .left{
     float: left;
     margin-left: 15px;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
 }
 .center{
     text-align: center;
