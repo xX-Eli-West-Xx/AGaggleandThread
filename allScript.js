@@ -22,24 +22,3 @@ function supportbuttonother() {
     v[0].innerHTML="If the question you want to ask isn't here, or you didn't get a clear answer, you can either use the phone number below, or email <i>gaggleandthread@gmail.com</i> to ask your question."
 }
 
-/*  -----------------------------   Carousel Here   ----------------------------- */
-
-$('.carousel').carousel({
-    interval: 1500
-})
-
-function carousel(){
-    // Activate Carousel
-    $("#carousel-261843").carousel();
-}
-function carouselcontrolleft(){
-    // Enable Carousel Controls
-    $(".carousel-control-prev").click(function(){
-      $("#carousel-261843").carousel("prev");
-    })
-}
-function carouselcontrolright(){
-    $(".carousel-control-next").click(function(){
-      $("#carousel-261843").carousel("next");
-    });
-  }
