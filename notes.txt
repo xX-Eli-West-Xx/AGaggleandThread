@@ -3,10 +3,10 @@
 
  fix banner                      - Done
  corner logo on other pages      - Done
- reviews on home                 - 
+ reviews on home                 - Done
  links to pages at the bottom    - Done
- get form for order?             - 
- get form for support            - 
+ get form for order?             - no
+ get form for support            - no
  google maps link in footer      - Done
 
 
@@ -14,7 +14,7 @@
 -|-------------------------|-  NOTES  -|------------------------|-
 
 +1 (731)803-1475 phone #
-ed e6 e3  colorrr
+ed e6 e3  color
 
 
 
